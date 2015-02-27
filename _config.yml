@@ -12,23 +12,19 @@ github_source_repo: jekyll-portfolio/jekyll-portfolio.github.io
 # this stuff shows up in your site's search results/facebook snippet
 
 title: CoLab Show 	
-description: "This is a template site for using Jekyll for a portfolio"
-meta_thumbnail_url: http://www.placecage.com/g/500/300
+description: "do you even watch our show"
+meta_thumbnail_url: https://www.facebook.com/1014044825279084/photos/a.1014045091945724.1073741825.1014044825279084/1014045098612390/?type=1&theater
 favicon_ico: /images/site/something.ico
 
 
 
 ### These things will show up in your footer
 twitter_id: colabshow
-github_id:  dannguyen
-tumblr_id: eyeheartnewyork
-instagram_id: danwinny
-flickr_id: zokuga
+instagram_id: colabshow
 youtube_id: colabshow
 
 about_url: /about/
 contact_url: "/about#contact"
-resume_url: http://www.grad.illinois.edu/careerservices/nonacademic/resumes/samples.pdf
 email: colabshow@gmail.com
 
 #######################################
