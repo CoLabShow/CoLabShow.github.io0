@@ -1,3 +1,6 @@
+k
+asdjkfdsal;fkj
+
 # README
 
 This is a minimalist portfolio built on Jekyll and Twitter Bootstrap. By default, it is configured to be used on Github Pages.
